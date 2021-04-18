@@ -9,8 +9,8 @@
 ## 注意
 **1.其余按钮和内容均为贴图。**  
 **2.本App不需要任何权限。**  
-**3.支持到Android 5.1 以上的系统。**
-**4.项目采用 MIT License
+**3.支持到Android 5.1 以上的系统。**  
+**4.项目采用 MIT License**
 
 # 编译
 解压source.zip，在Android Studio中打开即可。
